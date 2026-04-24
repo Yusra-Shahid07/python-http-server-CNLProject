@@ -1,6 +1,6 @@
 # Python HTTP/1.1 Server
 
-A robust, multi-threaded HTTP/1.1 server implemented from scratch using Python's low-level `socket` library. This project demonstrates the core principles of networking, the TCP/IP stack, and the HTTP protocol.
+A multi-threaded HTTP/1.1 server built from scratch using Python's low-level `socket` library.This project demonstrates the core principles of networking, the TCP/IP stack and the HTTP protocol.
 
 ## Key Features
 
